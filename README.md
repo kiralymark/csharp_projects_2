@@ -28,10 +28,10 @@ If text is used, it will throw an exception.
 csharp project,
 visual studio 2022,
 .NET Framework,
-abstract classes and the base keyword
+abstract class and the base keyword
 
 #### Summary:  
-Original link to the source: https://stackoverflow.com/questions/46195167/can-i-call-abstract-method-from-base-class-in-another-abstract-derived-class
+Original link to the [source](https://stackoverflow.com/questions/46195167/can-i-call-abstract-method-from-base-class-in-another-abstract-derived-class).
   
 This test program demonstrates the usage of base keyword and abstract classes.
 
@@ -43,6 +43,7 @@ This test program demonstrates the usage of base keyword and abstract classes.
 csharp project,
 visual studio 2022,
 .NET Framework,
+FizzBuzz task
 
 #### Summary:  
 This C# program implements a variation of the FizzBuzz problem. It accepts a user-inputted integer n and prints odd numbers from 1 to n.  
