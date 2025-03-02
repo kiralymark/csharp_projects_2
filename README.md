@@ -56,8 +56,70 @@ The program applies the following rules:
 The for loop iterates from 1 to n, skipping even numbers (iterateNumber += 2).
 
 
-## .
+## ConsoleAppArrayTask1  
 
-## .
+#### Tags:  
+2025 february,
+csharp project,
+visual studio 2022,
+.NET Framework,
+Array Rotation modified task,
+ArrayList,
+swap values in an array,
+temporary variable,
+Two Sum Problem modified task,
+add two values in an array,
+display the sum,
+Reverse the array order task,
 
-## .
+#### Summary:  
+Original link to the [source](https://daily.dev/blog/fun-coding-problems-from-easy-to-hard).
+  
+Task 1/3 (Array Rotation, modified task):  
+The C# program allows users to swap two elements in an array. The user specifies two index positions, and the program swaps the values at those positions. The goal is to demonstrate basic array manipulation and swapping techniques. 
+ArrayList is used in this task. The values are swapped using a temporary variable. 
+  
+Task 2/3 (Two Sum Problem, modified task):  
+The program solves a variation of the Two Sum Problem. The user selects two indices from a predefined list, and the program adds the values at those indices, displaying the sum. 
+  
+Task 3/3 (Reverse the order in an array):  
+The program reverses an ordered list. It takes a predefined list, creates a new list in reverse order, and prints both lists. 
+The program loops through the original list in reverse order. Each value is copied into a new ArrayList. 
+
+  
+## ConsoleAppPalindromProgram  
+
+#### Tags:  
+2025 february,
+csharp project,
+visual studio 2022,
+.NET Framework,
+Palindrom Program,
+string manipulation, 
+string interpolation
+
+#### Summary:  
+This program checks whether a given word or phrase is a palindrome. A palindrome is a sequence that reads the same forward and backward, such as "madam" or "121". 
+  
+How It Works:
+- The program iterates through the string in reverse order.
+- A new string is built by appending characters from the end of the input string.
+- The original string is compared with the reversed string.
+- If both are equal, it is a palindrome; otherwise, it is not.
+
+  
+## ConsoleAppStringCheckProgram  
+
+#### Tags:  
+2025 february,
+csharp project,
+visual studio 2022,
+.NET Framework,
+check a String,
+list of banned words,
+  
+#### Summary:  
+This program checks if a given input string contains any banned words.  
+If the input matches a banned word exactly, it triggers a censorship warning.  
+If no banned words are detected, the input is displayed as it is.  
+
